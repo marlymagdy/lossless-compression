@@ -104,5 +104,5 @@ def calculate_golomb_and_stats(binary_string):   #calculate golumb for list of n
         "bits_before": bits_before_total,
         "bits_after": bits_after_total,
         "cr": compression_ratio,
-        "efficiency": (bits_after_total/bits_before_total)*100
+       
     }
